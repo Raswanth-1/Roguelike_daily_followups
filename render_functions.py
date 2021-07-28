@@ -1,3 +1,5 @@
+#This file renders everything we put 
+
 import tcod as libtcod
 
 
